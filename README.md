@@ -6,7 +6,7 @@ Web Developer and Designer
 
 My name is Akshat and I'm a computer science student from India I am in my 3rd Year currently working on Web Development and Machine Learning
 
-* 🌍  I am in my 3rd Year currently wokring on Web Development and Machine Learning
+* 🌍  I am in my 3rd Year currently working on Web Development and Machine Learning
 * ✉️  You can contact me at [akshathg7@gmail.com](mailto:akshathg7@gmail.com)
 * 🧠  I'm learning Web Development
 * 🤝  I'm open to collaborating on Development Projects
