@@ -4,7 +4,7 @@ Hi 👋 My name is Akshat Goel
 Web Developer and Designer
 --------------------------
 
-My name is Akshat and I'm a computer science student from India I am in my 3rd Year currently working on Web Development and Machine Learning
+My name is Akshat and I'm a computer science student from India
 
 * 🌍  I am in my 3rd Year currently working on Web Development and Machine Learning
 * ✉️  You can contact me at [akshathg7@gmail.com](mailto:akshathg7@gmail.com)
