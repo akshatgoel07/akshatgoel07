@@ -2,7 +2,7 @@ I'm Akshat, a computer science student from India
 
 * 🚀 Building web and app projects while leveraging new technologies to solve problems
 * ✉  You can contact me at [akshathg7@gmail.com](mailto:akshathg7@gmail.com)
-* 🖥️ See my portfolio at <a href="akshatgoel.design" target="_blank"> 
+* 🖥️ See my portfolio at <a href="(https://akshatgoel.design/)" target="_blank"> 
      akshatgoel.design
     </a>
 
