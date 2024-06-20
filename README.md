@@ -1,5 +1,7 @@
-* 🚀 I’m currently learning Recoil
-* 💬 Ask me about Node.js, React.js, Next.js
-* ✉  You can contact me at [akshathg7@gmail.com](mailto:akshathg7@gmail.com)
-    </a>
+</div>
+<a href="https://www.twitter.com/akshatgoel0" target="__blank"><img src="https://img.shields.io/twitter/follow/akshatgoel0?style=social" alt="Twitter"></a>
+</a>
+<br>
 
+- I build web apps using Next, React, Tailwind, Prisma, and Postgres.
+- Posting about projects and ideas on [Twitter](https://twitter.com/akshatgoel0)
