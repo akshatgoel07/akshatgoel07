@@ -1,3 +1,1 @@
-- Go to Stack: Next, Tailwind, Prisma, and Postgres.
-- Building [Bnngpt](https://bnngpt.com/)
 - Unfiltered thoughts [Twitter](https://twitter.com/akshatgoel0)
